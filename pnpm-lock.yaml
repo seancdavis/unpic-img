@@ -564,8 +564,8 @@ importers:
         specifier: 8.42.0
         version: 8.42.0
       eslint-plugin-qwik:
-        specifier: ^0.103.0
-        version: 0.103.0(eslint@8.42.0)
+        specifier: ^0.107.0
+        version: 0.107.0(eslint@8.42.0)
       node-fetch:
         specifier: 3.3.1
         version: 3.3.1
@@ -11640,8 +11640,8 @@ packages:
       eslint: 8.38.0
     dev: true
 
-  /eslint-plugin-qwik@0.103.0(eslint@8.42.0):
-    resolution: {integrity: sha512-mEZ5qfNcpnnufWwmGarIqvopgZlNTdaMF1RQbLLwtW3czx7UEEqbWHgxFwcCWv/xLUg7Gn8WxduM0BmTdbSRew==}
+  /eslint-plugin-qwik@0.107.0(eslint@8.42.0):
+    resolution: {integrity: sha512-HFIdvvDYAq69fARVIU7zehtu1e12JU0i5T5Ksp7Cnu8pfsMeVRLZ9o7UiFbb0I+IGHIyU34gQ7WOd5wFR6H9aQ==}
     engines: {node: '>=16'}
     peerDependencies:
       eslint: '>= 8'
